@@ -101,7 +101,7 @@ shopstream-lakehouse/
 
 ## Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 
 Key views: daily revenue, revenue by product/region, customer order counts and lifetime value.
 
