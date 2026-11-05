@@ -1,0 +1,198 @@
+product_id,product_name,category,unit_price,unit_cost
+P0001,Wireless Earbuds,electronics,69.01,45.86
+P0002,Wireless Earbuds v2,electronics,244.41,127.05
+P0003,Wireless Earbuds v3,electronics,41.1,24.58
+P0004,Wireless Earbuds v4,electronics,89.69,48.74
+P0005,Wireless Earbuds v5,electronics,281.95,211.29
+P0006,Mechanical Keyboard,electronics,229.55,105.48
+P0007,Mechanical Keyboard v2,electronics,27.92,18.85
+P0008,Mechanical Keyboard v3,electronics,40.16,21.28
+P0009,Mechanical Keyboard v4,electronics,105.65,64.76
+P0010,Mechanical Keyboard v5,electronics,47.69,34.28
+P0011,Mechanical Keyboard v6,electronics,64.02,36.14
+P0012,USB-C Hub,electronics,35.42,24.1
+P0013,USB-C Hub v2,electronics,63.73,43.42
+P0014,USB-C Hub v3,electronics,122.93,82.52
+P0015,Webcam,electronics,51.65,34.64
+P0016,Webcam v2,electronics,30.29,19.68
+P0017,Webcam v3,electronics,53.8,30.49
+P0018,Portable SSD,electronics,360.22,179.24
+P0019,Portable SSD v2,electronics,244.98,164.97
+P0020,Portable SSD v3,electronics,163.67,79.65
+P0021,Portable SSD v4,electronics,136.88,73.87
+P0022,Portable SSD v5,electronics,95.39,44.42
+P0023,Smartwatch,electronics,383.08,199.5
+P0024,Smartwatch v2,electronics,119.83,54.47
+P0025,Smartwatch v3,electronics,279.23,174.63
+P0026,Smartwatch v4,electronics,106.77,55.83
+P0027,Bluetooth Speaker,electronics,176.82,116.21
+P0028,Bluetooth Speaker v2,electronics,225.44,111.93
+P0029,Bluetooth Speaker v3,electronics,266.76,139.95
+P0030,Air Fryer,home-kitchen,29.84,18.97
+P0031,Air Fryer v2,home-kitchen,356.97,267.4
+P0032,Air Fryer v3,home-kitchen,196.06,91.74
+P0033,Air Fryer v4,home-kitchen,204.87,135.3
+P0034,Air Fryer v5,home-kitchen,277.67,135.43
+P0035,Air Fryer v6,home-kitchen,59.64,44.4
+P0036,Coffee Grinder,home-kitchen,285.22,165.89
+P0037,Coffee Grinder v2,home-kitchen,50.23,32.99
+P0038,Coffee Grinder v3,home-kitchen,94.69,46.44
+P0039,Coffee Grinder v4,home-kitchen,337.77,201.17
+P0040,Coffee Grinder v5,home-kitchen,121.0,65.15
+P0041,Knife Set,home-kitchen,49.51,25.05
+P0042,Knife Set v2,home-kitchen,91.44,61.24
+P0043,Knife Set v3,home-kitchen,70.65,49.41
+P0044,Knife Set v4,home-kitchen,347.14,213.96
+P0045,Knife Set v5,home-kitchen,26.03,12.92
+P0046,Knife Set v6,home-kitchen,76.23,40.33
+P0047,Blender,home-kitchen,126.91,86.65
+P0048,Blender v2,home-kitchen,146.3,98.04
+P0049,Blender v3,home-kitchen,328.59,208.96
+P0050,Blender v4,home-kitchen,96.53,61.4
+P0051,Blender v5,home-kitchen,83.38,39.11
+P0052,Rice Cooker,home-kitchen,292.57,148.32
+P0053,Rice Cooker v2,home-kitchen,222.95,151.54
+P0054,Rice Cooker v3,home-kitchen,41.81,22.37
+P0055,Rice Cooker v4,home-kitchen,111.45,60.92
+P0056,Rice Cooker v5,home-kitchen,30.69,19.88
+P0057,Rice Cooker v6,home-kitchen,22.09,16.16
+P0058,Rice Cooker v7,home-kitchen,47.04,21.61
+P0059,Toaster,home-kitchen,138.44,66.4
+P0060,Toaster v2,home-kitchen,172.56,120.95
+P0061,Toaster v3,home-kitchen,211.03,128.25
+P0062,Yoga Mat,fitness,65.53,36.69
+P0063,Yoga Mat v2,fitness,187.56,88.39
+P0064,Yoga Mat v3,fitness,356.58,182.79
+P0065,Yoga Mat v4,fitness,140.72,100.89
+P0066,Yoga Mat v5,fitness,27.87,19.24
+P0067,Yoga Mat v6,fitness,24.71,15.26
+P0068,Yoga Mat v7,fitness,361.45,207.76
+P0069,Dumbbell Set,fitness,279.16,130.5
+P0070,Dumbbell Set v2,fitness,192.4,117.12
+P0071,Dumbbell Set v3,fitness,248.02,173.7
+P0072,Dumbbell Set v4,fitness,27.53,14.17
+P0073,Dumbbell Set v5,fitness,151.58,72.81
+P0074,Resistance Bands,fitness,156.41,79.27
+P0075,Resistance Bands v2,fitness,154.23,80.91
+P0076,Resistance Bands v3,fitness,196.15,98.79
+P0077,Resistance Bands v4,fitness,255.59,146.85
+P0078,Foam Roller,fitness,264.4,164.71
+P0079,Foam Roller v2,fitness,218.8,144.58
+P0080,Foam Roller v3,fitness,117.36,56.48
+P0081,Jump Rope,fitness,163.83,98.53
+P0082,Jump Rope v2,fitness,210.85,128.65
+P0083,Jump Rope v3,fitness,184.92,135.0
+P0084,Jump Rope v4,fitness,340.02,209.12
+P0085,Data Engineering Handbook,books,306.87,176.05
+P0086,Data Engineering Handbook v2,books,199.71,139.37
+P0087,Data Engineering Handbook v3,books,84.18,43.96
+P0088,Data Engineering Handbook v4,books,162.05,91.16
+P0089,Data Engineering Handbook v5,books,163.94,110.39
+P0090,Python Crash Course,books,375.83,219.58
+P0091,Python Crash Course v2,books,107.19,71.59
+P0092,Python Crash Course v3,books,389.17,244.68
+P0093,Python Crash Course v4,books,150.84,112.83
+P0094,Python Crash Course v5,books,77.96,42.11
+P0095,Atomic Habits,books,55.31,30.11
+P0096,Atomic Habits v2,books,267.14,195.81
+P0097,Atomic Habits v3,books,294.38,213.64
+P0098,Atomic Habits v4,books,148.36,92.16
+P0099,Deep Work,books,41.93,19.34
+P0100,Deep Work v2,books,93.91,46.16
+P0101,Deep Work v3,books,97.48,60.89
+P0102,Deep Work v4,books,59.72,41.41
+P0103,Deep Work v5,books,29.93,17.06
+P0104,Deep Work v6,books,349.17,234.04
+P0105,Deep Work v7,books,242.65,166.91
+P0106,The Pragmatic Programmer,books,139.53,100.42
+P0107,The Pragmatic Programmer v2,books,232.43,161.74
+P0108,The Pragmatic Programmer v3,books,30.53,19.62
+P0109,The Pragmatic Programmer v4,books,21.14,14.64
+P0110,Running Shoes,fashion,27.62,12.89
+P0111,Running Shoes v2,fashion,266.81,147.91
+P0112,Running Shoes v3,fashion,291.53,167.62
+P0113,Running Shoes v4,fashion,319.88,227.41
+P0114,Running Shoes v5,fashion,58.18,37.57
+P0115,Running Shoes v6,fashion,185.96,84.32
+P0116,Denim Jacket,fashion,23.68,14.38
+P0117,Denim Jacket v2,fashion,82.98,51.4
+P0118,Denim Jacket v3,fashion,85.18,56.16
+P0119,Denim Jacket v4,fashion,41.62,27.14
+P0120,Denim Jacket v5,fashion,398.32,295.28
+P0121,Denim Jacket v6,fashion,257.46,160.29
+P0122,Cotton T-Shirt,fashion,57.05,30.63
+P0123,Cotton T-Shirt v2,fashion,106.28,52.04
+P0124,Cotton T-Shirt v3,fashion,28.31,17.59
+P0125,Baseball Cap,fashion,163.08,86.23
+P0126,Baseball Cap v2,fashion,107.67,62.49
+P0127,Baseball Cap v3,fashion,230.01,156.09
+P0128,Hoodie,fashion,167.67,99.99
+P0129,Hoodie v2,fashion,208.4,106.04
+P0130,Hoodie v3,fashion,191.99,128.77
+P0131,Hoodie v4,fashion,63.04,29.72
+P0132,Hoodie v5,fashion,269.89,147.64
+P0133,Hoodie v6,fashion,352.92,168.3
+P0134,Face Serum,beauty,116.14,64.4
+P0135,Face Serum v2,beauty,83.39,52.38
+P0136,Face Serum v3,beauty,19.25,10.42
+P0137,Face Serum v4,beauty,392.14,248.96
+P0138,Face Serum v5,beauty,393.73,229.41
+P0139,Face Serum v6,beauty,40.11,18.59
+P0140,Sunscreen SPF50,beauty,51.77,29.1
+P0141,Sunscreen SPF50 v2,beauty,259.98,183.5
+P0142,Sunscreen SPF50 v3,beauty,33.62,15.68
+P0143,Sunscreen SPF50 v4,beauty,367.99,267.9
+P0144,Lip Balm,beauty,17.81,11.72
+P0145,Lip Balm v2,beauty,33.41,19.55
+P0146,Lip Balm v3,beauty,19.04,9.76
+P0147,Lip Balm v4,beauty,158.96,81.25
+P0148,Lip Balm v5,beauty,153.07,80.76
+P0149,Shampoo Bar,beauty,195.12,145.89
+P0150,Shampoo Bar v2,beauty,228.65,148.73
+P0151,Shampoo Bar v3,beauty,100.51,72.55
+P0152,Shampoo Bar v4,beauty,154.47,81.35
+P0153,Shampoo Bar v5,beauty,24.62,12.56
+P0154,Shampoo Bar v6,beauty,229.35,121.87
+P0155,Building Blocks,toys,209.56,94.83
+P0156,Building Blocks v2,toys,104.41,55.48
+P0157,Building Blocks v3,toys,310.93,201.49
+P0158,Building Blocks v4,toys,317.86,144.86
+P0159,Building Blocks v5,toys,319.64,206.11
+P0160,Building Blocks v6,toys,59.27,33.44
+P0161,RC Car,toys,340.84,202.94
+P0162,RC Car v2,toys,183.7,87.52
+P0163,RC Car v3,toys,51.58,38.17
+P0164,Puzzle 1000pc,toys,354.25,161.7
+P0165,Puzzle 1000pc v2,toys,63.33,38.56
+P0166,Puzzle 1000pc v3,toys,87.18,49.52
+P0167,Puzzle 1000pc v4,toys,42.41,23.5
+P0168,Puzzle 1000pc v5,toys,92.75,59.13
+P0169,Puzzle 1000pc v6,toys,60.52,45.0
+P0170,Puzzle 1000pc v7,toys,144.48,100.21
+P0171,Board Game,toys,326.12,233.87
+P0172,Board Game v2,toys,290.28,133.19
+P0173,Board Game v3,toys,165.87,88.58
+P0174,Board Game v4,toys,41.31,29.71
+P0175,Board Game v5,toys,210.57,100.3
+P0176,Green Tea 100pk,grocery,152.07,99.36
+P0177,Green Tea 100pk v2,grocery,322.68,211.66
+P0178,Green Tea 100pk v3,grocery,114.01,70.9
+P0179,Green Tea 100pk v4,grocery,117.15,63.7
+P0180,Green Tea 100pk v5,grocery,187.3,109.52
+P0181,Green Tea 100pk v6,grocery,37.31,24.09
+P0182,Almond Butter,grocery,160.32,110.63
+P0183,Almond Butter v2,grocery,316.89,171.98
+P0184,Almond Butter v3,grocery,233.55,141.8
+P0185,Almond Butter v4,grocery,38.0,28.45
+P0186,Almond Butter v5,grocery,384.65,189.84
+P0187,Almond Butter v6,grocery,358.29,259.81
+P0188,Almond Butter v7,grocery,82.45,50.89
+P0189,Dark Chocolate,grocery,48.25,33.86
+P0190,Dark Chocolate v2,grocery,40.05,18.38
+P0191,Dark Chocolate v3,grocery,82.79,61.42
+P0192,Trail Mix,grocery,78.39,52.81
+P0193,Trail Mix v2,grocery,294.03,188.49
+P0194,Trail Mix v3,grocery,250.06,123.93
+P0195,Trail Mix v4,grocery,49.1,24.03
+P0196,Trail Mix v5,grocery,19.53,14.57
+P0197,Trail Mix v6,grocery,192.41,121.54
