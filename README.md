@@ -82,9 +82,6 @@ shopstream-lakehouse/
 │   └── dlt_pipeline.py          # Delta Live Tables definitions
 ├── jobs/
 │   └── shopstream_job.json      # exported Workflow definition
-├── sql/
-│   ├── data_quality_checks.sql
-│   └── dashboard_queries.sql
 └── scripts/
     └── generate_sample_data.py
 ```
